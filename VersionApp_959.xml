@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UpdateApp
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<item>
+		<VersionApp>
+			<number>5.4635</number>
+			<linkUrl>update.vnpt-bhxh.vn/02012020Update.zip</linkUrl>								
+			<dateModified>02/01/2020</dateModified>
+			<changes>Q+G6rXAgbmjhuq10IGRhbmggbeG7pWMgTmfDom4gaMOgbmcsIELhu4duaCB2aeG7h24=</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4636</number>
+			<linkUrl>update.vnpt-bhxh.vn/16012020Update.zip</linkUrl>								
+			<dateModified>16/01/2020</dateModified>
+			<changes>LcSQ4buTbmcgYuG7mSBkYW5oIG3hu6VjIGjDoG5oIGNow61uaCBt4bubaSBuaOG6pXQgMjAyMA==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4637</number>
+			<linkUrl>update.vnpt-bhxh.vn/20012020Update.zip</linkUrl>								
+			<dateModified>20/01/2020</dateModified>
+			<changes>LcSQ4buTbmcgYuG7mSBs4bqhaSBkYW5oIG3hu6VjIGjDoG5oIGNow61uaA==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4638</number>
+			<linkUrl>update.vnpt-bhxh.vn/20012020Update_1.zip</linkUrl>								
+			<dateModified>20/01/2020</dateModified>
+			<changes>LcSQ4buVaSB0w6puLCBzw6FwIG5o4bqtcCBt4buZdCBz4buRIHjDoyB04bqhaSBUUCBUdXnDqm4gUXVhbmc=</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4639</number>
+			<linkUrl>update.vnpt-bhxh.vn/11022020Update.zip</linkUrl>								
+			<dateModified>11/02/2020</dateModified>
+			<changes>LUPhuq1wIG5o4bqtdCBkYW5oIG3hu6VjIMSR4buLYSBiw6BuIGjDoG5oIGNow61uaCBt4bubaSAoMjAyMCk=</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4640</number>
+			<linkUrl>update.vnpt-bhxh.vn/12022020Update.zip</linkUrl>								
+			<dateModified>12/02/2020</dateModified>
+			<changes>QuG7lSBzdW5nIFBoxrDhu51uZyBMxrDGoW5nIFPGoW4gLSBTw7RuZyBDw7RuZyAtVGjDoWkgTmd1ecOqbg==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4641</number>
+			<linkUrl>update.vnpt-bhxh.vn/13022020Update.zip</linkUrl>								
+			<dateModified>13/02/2020</dateModified>
+			<changes>Q+G6rXAgbmjhuq10IHRow7RuZyB0aW4gWMOjIEh14buRbmcgVGjGsOG7o25nIGNodXnhu4NuIHbhu4EgVGjDoG5oIHBo4buRIHBo4buRIFRow6FpIE5ndXnDqm4=</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4642</number>
+			<linkUrl>update.vnpt-bhxh.vn/25022020Update.zip</linkUrl>								
+			<dateModified>25/02/2020</dateModified>
+			<changes>LVPhu61hIGzhu5dpICJDb24gZOG7gyIgdGjDoG5oICJDb24gcuG7gyIgdHJvbmcgcGjhu6UgbOG7pWMgZ2lhIMSRw6xuaCB2w6Agc+G7rWEgbOG6oWkgVEsxIHRoZW8gUUQyMg==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4643</number>
+			<linkUrl>update.vnpt-bhxh.vn/09032020Update.zip</linkUrl>								
+			<dateModified>09/03/2020</dateModified>
+			<changes>Q+G6rXAgbmjhuq10IGLhu5Ugc3VuZyB0w7l5IGNo4buNbiBrw70gc+G7kSBi4bqxbmcgVk5QVC1Lw70gc+G7kQ==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4644</number>
+			<linkUrl>update.vnpt-bhxh.vn/16032020Update.zip</linkUrl>								
+			<dateModified>16/03/2020</dateModified>
+			<changes>LUPhuq1wIG5o4bqtdCBkYW5oIG3hu6VjIGLhu4duaCB2aeG7h24gdsOgIGRhbmggbeG7pWMgxJHhu4thIGLDoG4gaMOgbmggY2jDrW5oIOG7nyBI4bqjaSBExrDGoW5n</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4645</number>
+			<linkUrl>update.vnpt-bhxh.vn/17032020Update.zip</linkUrl>								
+			<dateModified>16/03/2020</dateModified>
+			<changes>LULhu5Ugc3VuZyB4w6MgS2ltIExpw6puLCDEkOG7k25nIEPhuqltIChLaW0gVGjDoG5oIC0gSOG6o2kgRMawxqFuZyk=</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4646</number>
+			<linkUrl>update.vnpt-bhxh.vn/18032020Update.zip</linkUrl>								
+			<dateModified>18/03/2020</dateModified>
+			<changes>Q+G6rXAgbmjhuq10IHRow7RuZyB0aW4gY2hvIEtpbmggTcO0biAtIEjhuqNpIETGsMahbmcsIGLhu5Ugc3VuZyDEkGnhu4FtIEhlIC0gVsSDbiBRdWFuIC0gTOG6oW5nIFPGoW4sIGLhu5Ugc3VuZyBNaW5oIENow6J1IC0gRGnhu4VuIENow6J1IC0gTmdo4buHIEFuLCBi4buVIHN1bmcgeMOjIFjDoyBOaW5oIFBoxrDhu5tjIC0gTsO0bmcgU8ahbiAtIFF14bqjbmcgTmFt</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4647</number>
+			<linkUrl>update.vnpt-bhxh.vn/24032020Update.zip</linkUrl>								
+			<dateModified>24/03/2020</dateModified>
+			<changes>QuG7lSBzdW5nIHRow6ptIMSR4buLYSBkYW5oIHjDoyBBbiBTxqFuIEh1eeG7h24gVsSDbiBRdWFuIFThu4luaCBM4bqhbmcgU8ahbgpDaHV54buDbiBYw6MgQ+G7kWMgU2FuLCB0cuG7sWMgdGh14buZYyBUUCBMw6BvIENhaSwgVOG7iW5oIEzDoG8gQ2FpCkLhu5Ugc3VuZyBYw6MgTMOibSBI4bujcCwgS+G7syBBbmgsIEjDoCBUxKluaA==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4648</number>
+			<linkUrl>update.vnpt-bhxh.vn/31032020Update.zip</linkUrl>								
+			<dateModified>31/03/2020</dateModified>
+			<changes>W1F14bqjbmcgdHLhu4tdCi1Yw6MgVsSpbmggVMOibiAoMTk0MTEpLCBIdXnhu4duIFbEqW5oIExpbmggKDU2NCkgc8OhcCBuaOG6rXAgduG7gSBUaOG7iyBUcuG6pW4gQ+G7rWEgVMO5bmcgKDE5NDE0KQotTmjhuq1wIHjDoyBWxKluaCBLaW0sIHRow6BuaCBs4bqtcCB4w6MgS2ltIFRo4bqhY2gKLU5o4bqtcCB4w6MgVsSpbmggVHJ1bmcgduG7m2kgeMOjIFbEqW5oIE5hbSB0aMOgbmggeMOjIFRydW5nIE5hbTsKLU5o4bqtcCB4w6MgVsSpbmggSGnhu4FuIHbhu5tpIHjDoyBWxKluaCBUaMOgbmggxJHhu4MgdGjDoG5oIGzhuq1wIHjDoyBIaeG7gW4gVGjDoG5oLgpbTmFtIMSQ4buLbmhdIAotxJDhu5VpIHTDqm4geMOjIFRy4buxYyBQaMO6LCBUcuG7sWMgTmluaCwgTmFtIMSQ4buLbmggdGjDoG5oIFRo4buLIHRy4bqlbiBOaW5oIEPGsOG7nW5nCltMb25nIEFuXQotTmjhuq1wIHjDoyBMb25nIFRow6BuaCwgdGjDoG5oIGzhuq1wIHjDoyBUw6JuIExvbmcsIFRo4bunIFRo4burYSwgTG9uZyBBbg==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4649</number>
+			<linkUrl>update.vnpt-bhxh.vn/06042020Update.zip</linkUrl>								
+			<dateModified>06/04/2020</dateModified>
+			<changes>VGhheSDEkeG7lWkgdMOqbiBodXnhu4duIFTDom4gVGjDoG5oLCBCw6AgUuG7i2EgLSBWxaluZyB0w6B1IHRow6BuaCBUaOG7iyBYw6MgUGjDuiBN4bu5ICYgQuG7lSBzdW5nIFRy4bqhbSB5IHThur8gcGjGsOG7nW5nIEThu4tjaCBW4buNbmcgSOG6rXUgKDAxQzA4KQ==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4650</number>
+			<linkUrl>update.vnpt-bhxh.vn/06042020Update_1.zip</linkUrl>								
+			<dateModified>06/04/2020</dateModified>
+			<changes>VGhheSDEkeG7lWkgdMOqbiB04burIHBoxrDhu51uZyBUaOG7kW5nIE5o4bqldCwgVFAgTMOgbyBDYWkgdGjDoG5oIHjDoyBUaOG7kW5nIE5o4bqldCwgVFAgTMOgbyBDYWkh</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4651</number>
+			<linkUrl>update.vnpt-bhxh.vn/07042020Update.zip</linkUrl>								
+			<dateModified>07/04/2020</dateModified>
+			<changes>LSBD4bqtcCBuaOG6rXQgYuG7lSBzdW5nIGRhbmggbeG7pWMgUGjGsMahbmcgw6FuICJHViIgdsOgICJUViIgCi0gQ+G6rXAgbmjhuq10IGRhbmggbeG7pWMgYuG7h25oIHZp4buHbiBUdXnDqm4gUXVhbmc6IELhu4duaCB2aeG7h24gxJFhIGtob2EgQW4gUGjDoXQoMDgwMDQpID0+IFBow7JuZyBLaMOhbSDEkGEgS2hvYSBUdXnhur90IE1haQ==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4652</number>
+			<linkUrl>update.vnpt-bhxh.vn/08042020Update.zip</linkUrl>								
+			<dateModified>08/04/2020</dateModified>
+			<changes>U+G7rWEgbOG7l2kga2jDtG5nIGNo4buNbiDEkcaw4bujYyBwaMawxqFuZyDDoW4gRDAyLVRT</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4653</number>
+			<linkUrl>update.vnpt-bhxh.vn/08042020Update_1.zip</linkUrl>								
+			<dateModified>08/04/2020</dateModified>
+			<changes>Q+G6rXAgbmjhuq10IGLhu5Ugc3VuZyBkYW5oIG3hu6VjIFBoxrDGoW5nIMOhbiAiR1YiIHbDoCAiVFYiIA==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4654</number>
+			<linkUrl>update.vnpt-bhxh.vn/28042020Update.zip</linkUrl>								
+			<dateModified>29/04/2020</dateModified>
+			<changes>LUPhuq1wIG5o4bqtdCBkYW5oIG3hu6VjIMSR4buLYSBiw6BuIGjDoG5oIGNow61uaCBt4bubaSBuaOG6pXQ=</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4655</number>
+			<linkUrl>update.vnpt-bhxh.vn/07052020Update.zip</linkUrl>								
+			<dateModified>07/05/2020</dateModified>
+			<changes>LUPhuq1wIG5o4bqtdCBkYW5oIG3hu6VjIMSR4buLYSBiw6BuIGjDoG5oIGNow61uaCwgYuG7h25oIHZp4buHbiwgbmfDom4gaMOgbmcgbeG7m2kgbmjhuqV0IHThu6sgQkhYSCBWTg==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4656</number>
+			<linkUrl>update.vnpt-bhxh.vn/12052020Update.zip</linkUrl>								
+			<dateModified>12/05/2020</dateModified>
+			<changes>LUPhuq1wIG5o4bqtdCBkYW5oIG3hu6VjIMSR4buLYSBiw6BuIGjDoG5oIGNow61uaCBC4bqvYyBHaWFuZw==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4657</number>
+			<linkUrl>update.vnpt-bhxh.vn/19052020Update.zip</linkUrl>								
+			<dateModified>19/05/2020</dateModified>
+			<changes>LUPhuq1wIG5o4bqtdCB0aOG7pyB04bulYyA2MDBjLCA2MDBkIHRoZW8gcXV5IMSR4buLbmggbeG7m2kgY+G7p2EgQkhYSCBWTg==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4658</number>
+			<linkUrl>update.vnpt-bhxh.vn/20052020Update.zip</linkUrl>								
+			<dateModified>20/05/2020</dateModified>
+			<changes>Q+G6rXAgbmjhuq10IGZpbGUgbeG6q3UgRXhjZWwgRDAy</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4659</number>
+			<linkUrl>update.vnpt-bhxh.vn/21052020Update.zip</linkUrl>								
+			<dateModified>21/05/2020</dateModified>
+			<changes>LVPhu61hIGzhu5dpIGltcG9ydCBmaWxlIG3huqt1IEQwMi1UUyBraMO0bmcgaGnhu4NuIHRo4buLIGThu68gbGnhu4d1</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4660</number>
+			<linkUrl>update.vnpt-bhxh.vn/29052020Update.zip</linkUrl>								
+			<dateModified>29/05/2020</dateModified>
+			<changes>LUPhuq1wIG5o4bqtdCBkYW5oIG3hu6VjIFbEqW5oIFBow7pjLCBC4bq/biBUcmUsICBIw7JhIELDrG5oLCBM4bqhbmcgU8ahbiwgQ2FvIELhurFuZywgUGjDuiBUaOG7jQ==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4661</number>
+			<linkUrl>update.vnpt-bhxh.vn/03062020Update.zip</linkUrl>								
+			<dateModified>03/06/2020</dateModified>
+			<changes>LWPhuq1wIG5o4bqtdCBkYW5oIG3hu6VjIMSR4buLYSBiw6BuIEjDoCBUxKluaCwgVGhhbmggSMOzYQ==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4662</number>
+			<linkUrl>update.vnpt-bhxh.vn/05062020Update.zip</linkUrl>								
+			<dateModified>05/06/2020</dateModified>
+			<changes>Q+G6rXAgbmjhuq10IFBoxrDGoW5nIMOhbiB0aOG7pyB04bulYyB0aHU6IERWIC0gVHJ1eSDEkcOzbmcgSFRUVCAoSMawdSB0csOtIHThu60gdHXhuqV0KQ==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4663</number>
+			<linkUrl>update.vnpt-bhxh.vn/16062020Update.zip</linkUrl>								
+			<dateModified>16/06/2020</dateModified>
+			<changes>LUPhuq1wIG5o4bqtdCBkYW5oIG3hu6VjIGLhu4duaCB2aeG7h24sIG5nw6JuIGjDoG5nIG3hu5tpIG5o4bqldCB04burIEJIWEggVk4sIHbDoCBj4bqtcCBuaOG6rXQgxJHhu4thIGLDoG4gaMOgbmggY2jDrW5oIFF14bqjbmcgTmfDo2ksIEzDoG8gQ2FpLCBC4bqvYyBL4bqhbiwgVHV5w6puIFF1YW5n</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4664</number>
+			<linkUrl>update.vnpt-bhxh.vn/23062020Update.zip</linkUrl>								
+			<dateModified>23/06/2020</dateModified>
+			<changes>LUPhuq1wIG5o4bqtdCBkYW5oIG3hu6VjIG3hu5tpIG5o4bqldCB04burIEJIWEggVmnhu4d0IE5hbQ==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+			<number>5.4665</number>
+			<linkUrl>update.vnpt-bhxh.vn/24062020Update.zip</linkUrl>								
+			<dateModified>24/06/2020</dateModified>
+			<changes>Q+G6rXAgbmjhuq10IGRhbmggbeG7pWMgeMOjIGPhu6dhIGh1eeG7h24gTMO9IFPGoW4gLSBRdeG6o25nIE5nw6Np</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+		  <number>5.4666</number>
+		  <linkUrl>update.vnpt-bhxh.vn/04072020Update.zip</linkUrl>                
+		  <dateModified>04/07/2020</dateModified>
+		  <changes>Q+G6rXAgbmjhuq10IHBo4bqnbiBt4buBbSB0aGVvIFHEkCA1MDUvQkhYSA==</changes>
+		</VersionApp>
+	</item>
+	
+	<item>
+		<VersionApp>
+		  <number>5.4667</number>
+		  <linkUrl>update.vnpt-bhxh.vn/08072020Update.zip</linkUrl>                
+		  <dateModified>08/07/2020</dateModified>
+		  <changes>LUPhuq1wIG5o4bqtdCDEkcSDbmcga8O9IGzhuqduIMSR4bqndSBITiB2w6AgYuG7jyBi4bqvdCBideG7mWMgbmjhuq1wIG3DoyBo4buZIGdpYSDEkcOsbmggdHLDqm4gdOG7nSBraGFpIFRLMS1UUw==</changes>
+		</VersionApp>
+	</item>
+	
+</UpdateApp>
